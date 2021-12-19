@@ -1,6 +1,9 @@
 # DEMO
-ALL THE BEST FOR YOU PLACEMENTS
-
+ALL THE BEST FOR YOU PLACEMENT 
 ## sub head 
+okok
+now you are in the sub head
+## local development
 
-okkol
+1.open index.html in your browser
+
